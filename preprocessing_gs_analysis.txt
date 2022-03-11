@@ -1,0 +1,75 @@
+Timing Analysis for Preprocessing Graham Scan
+
+10^2
+New size of points after preprocessing: 21
+Total Time for 100 Samples: 0.000218868
+Total Time for 100 Samples: 0.000172853
+Total Time for 100 Samples: 0.000149965
+Total Time for 100 Samples: 0.000236988
+Total Time for 100 Samples: 0.000209093
+Average: .000197553
+
+
+
+10^3
+New size of points after preprocessing: 127
+Total Time for 1000 Samples: 0.000198126
+Total Time for 1000 Samples: 0.000358105
+Total Time for 1000 Samples: 0.000230789
+Total Time for 1000 Samples: 0.000427961
+Total Time for 1000 Samples: 0.000449896
+Average: .000332975
+
+
+
+10^4
+New size of points after preprocessing: 335
+Total Time for 10000 Samples: 0.000902891
+Total Time for 10000 Samples: 0.000629187
+Total Time for 10000 Samples: 0.000695944
+Total Time for 10000 Samples: 0.00071907
+Total Time for 10000 Samples: 0.000453949
+Average: .000680208
+
+
+
+10^5
+New size of points after preprocessing: 1386
+Total Time for 100000 Samples: 0.00207186
+Total Time for 100000 Samples: 0.00307012
+Total Time for 100000 Samples: 0.00239801
+Total Time for 100000 Samples: 0.00308108
+Total Time for 100000 Samples: 0.00197792
+Average: .002519798
+
+
+
+10^6
+New size of points after preprocessing: 3342
+Total Time for 1000000 Samples: 0.011389
+Total Time for 1000000 Samples: 0.00938582
+Total Time for 1000000 Samples: 0.01121
+Total Time for 1000000 Samples: 0.00867915
+Total Time for 1000000 Samples: 0.00922203
+Average: .0099772
+
+
+
+10^7
+New size of points after preprocessing: 12707
+Total Time for 10000000 Samples: 0.0657091
+Total Time for 10000000 Samples: 0.072691
+Total Time for 10000000 Samples: 0.094867
+Total Time for 10000000 Samples: 0.0862958
+Total Time for 10000000 Samples: 0.0708849
+Average: .07808956
+
+
+10^8
+New size of points after preprocessing: 35350
+Total Time for 100000000 Samples: 0.612265
+Total Time for 100000000 Samples: 0.765628
+Total Time for 100000000 Samples: 0.500551
+Total Time for 100000000 Samples: 0.48614
+Total Time for 100000000 Samples: 0.494188
+Average: .5717544

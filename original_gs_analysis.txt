@@ -1,0 +1,63 @@
+Timing Analysis for Original Graham Scan
+
+10^2
+Total Time for 100 Samples: 3.88622e-05
+Total Time for 100 Samples: 6.31809e-05
+Total Time for 100 Samples: 5.10216e-05
+Total Time for 100 Samples: 5.29289e-05
+Total Time for 100 Samples: 4.79221e-05
+Average: 5.0783e-05
+
+
+10^3
+Total Time for 1000 Samples: 0.0003829
+Total Time for 1000 Samples: 0.000375986
+Total Time for 1000 Samples: 0.000380039
+Total Time for 1000 Samples: 0.000391006
+Total Time for 1000 Samples: 0.00058198
+Average: .000422382
+
+
+10^4
+Total Time for 10000 Samples: 0.00495601
+Total Time for 10000 Samples: 0.00482702
+Total Time for 10000 Samples: 0.00483799
+Total Time for 10000 Samples: 0.00481915
+Total Time for 10000 Samples: 0.00457811
+Average: .004803656
+
+
+10^5
+Total Time for 100000 Samples: 0.077831
+Total Time for 100000 Samples: 0.090807
+Total Time for 100000 Samples: 0.079802
+Total Time for 100000 Samples: 0.126235
+Total Time for 100000 Samples: 0.0887439
+Average: .09268378
+
+
+10^6
+Total Time for 1000000 Samples: 0.915738
+Total Time for 1000000 Samples: 1.12444
+Total Time for 1000000 Samples: 1.34691
+Total Time for 1000000 Samples: 1.02835
+Total Time for 1000000 Samples: 1.32383
+Average: 1.1478544
+
+
+10^7
+Total Time for 10000000 Samples: 11.2274
+Total Time for 10000000 Samples: 11.2564
+Total Time for 10000000 Samples: 8.32495
+Total Time for 10000000 Samples: 8.15798
+Total Time for 10000000 Samples: 8.26617
+Average: 9.44658
+
+
+10^8
+Total Time for 100000000 Samples: 90.7232
+Total Time for 100000000 Samples: 91.3989
+Total Time for 100000000 Samples: 90.5498
+Total Time for 100000000 Samples: 90.291
+Total Time for 100000000 Samples: 90.6185
+Average: 90.71628 

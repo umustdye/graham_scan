@@ -1,0 +1,69 @@
+Timing Analysis for Preprocessing with Threshold Graham Scan
+
+10^2
+Total Time for 100 Samples: 3.8147e-05
+Total Time for 100 Samples: 3.50475e-05
+Total Time for 100 Samples: 3.69549e-05
+Total Time for 100 Samples: 5.10216e-05
+Total Time for 100 Samples: 6.00815e-05
+Average: 4.4251e-05
+
+
+
+10^3
+Total Time for 1000 Samples: 0.000682116
+Total Time for 1000 Samples: 0.000592947
+Total Time for 1000 Samples: 0.00078392
+Total Time for 1000 Samples: 0.000463963
+Total Time for 1000 Samples: 0.000778913
+Average: .000660372
+
+
+
+10^4
+Total Time for 10000 Samples: 0.000527859
+Total Time for 10000 Samples: 0.000591993
+Total Time for 10000 Samples: 0.000577927
+Total Time for 10000 Samples: 0.000590086
+Total Time for 10000 Samples: 0.000741005
+Average: .000605774
+
+
+
+10^5
+Total Time for 100000 Samples: 0.00225115
+Total Time for 100000 Samples: 0.00316691
+Total Time for 100000 Samples: 0.00193715
+Total Time for 100000 Samples: 0.00308299
+Total Time for 100000 Samples: 0.00253606
+Average: .002594852
+
+
+
+10^6
+Total Time for 1000000 Samples: 0.0132401
+Total Time for 1000000 Samples: 0.011091
+Total Time for 1000000 Samples: 0.0108931
+Total Time for 1000000 Samples: 0.0125091
+Total Time for 1000000 Samples: 0.0126131
+Average: .01206928
+
+
+
+10^7
+Total Time for 10000000 Samples: 0.0729618
+Total Time for 10000000 Samples: 0.074127
+Total Time for 10000000 Samples: 0.101541
+Total Time for 10000000 Samples: 0.0909081
+Total Time for 10000000 Samples: 0.0842669
+Average: .08476096
+
+
+
+10^8
+Total Time for 100000000 Samples: 0.658362
+Total Time for 100000000 Samples: 0.509216
+Total Time for 100000000 Samples: 0.511932
+Total Time for 100000000 Samples: 0.508962
+Total Time for 100000000 Samples: 0.504166
+Average: .5385276
